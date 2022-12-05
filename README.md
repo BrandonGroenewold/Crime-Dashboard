@@ -1,6 +1,7 @@
 # Minneapolis Neighborhood Crime Dashboard
 
 ### Produced/ Contributions made by:
+
 * Brandon Groenewold
 * Nathan Johnson
 * Kim Price
